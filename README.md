@@ -1,1 +1,1 @@
-# tales_anonymized
+An anonymized repository for the submission of TALES: Text Adventure Learning Environment Suite for NeurIPS 2025. The purpose of this repository is to serve as an anonymous method of accessing supplemantary code in case of any issues with the zip file upload.
