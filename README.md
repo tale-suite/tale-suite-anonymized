@@ -2,6 +2,8 @@ An anonymized repository for the submission of TALES: Text Adventure Learning En
 
 Visualizations of all game scores averaged across seeds are available in this repository.
 
+Note that the images are fairly large due to the combination of number of models and number of games. On a slower device, you may experience some lag when opening the images.
+
 # [Textworld](https://github.com/tale-suite/tale-suite-anonymized/blob/main/Visualizations/TextWorldScores/textworld_all_games.png)
 
 # [Textworld Express](https://github.com/tale-suite/tale-suite-anonymized/blob/main/Visualizations/TextWorldExpressScores/textworld_express_all_games.png)
@@ -10,5 +12,5 @@ Visualizations of all game scores averaged across seeds are available in this re
 
 # [Scienceworld](https://github.com/tale-suite/tale-suite-anonymized/blob/main/Visualizations/ScienceWorldScores/scienceworld_all_games.png)
 
-# [Jericho](https://github.com/tale-suite/tale-suite-anonymized/blob/main/Visualizations/jericho/jericho_all_games.png)
+# [Jericho](https://github.com/tale-suite/tale-suite-anonymized/blob/main/Visualizations/JerichoScores/jericho_all_games.png)
 
